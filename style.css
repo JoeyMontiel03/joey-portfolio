@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Space+Mono&display=swap");
+
+body {
+  background-image: linear-gradient(#dac4eb, white);
+  margin-bottom: 50px;
+  font-family: "PT Serif", serif;
+  color: #aa77d0;
+}
+
+img {
+  border: 3px solid #555555;
+  border-color: #aa77d0;
+}
+
+.navbar {
+  background-color: #b386d5 !important;
+}
+
+.jumbotron {
+  background-color: #b386d5;
+  font-family: "PT Serif", serif;
+  color: #ffffff;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 500;
+}
+
+a:link {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b386d5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #9a5ec7;
+  background-color: transparent;
+  text-decoration: underline;
+}
